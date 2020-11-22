@@ -1,0 +1,12 @@
+Dependencies for Project 'LCD_interfacing', Target 'LCD': (DO NOT MODIFY !)
+F (.\Startup.s)(0x559CFDE8)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips--pd "__UVISION_VERSION SETA 528"--list .\listings\startup.lst --xref -o .\objects\startup.o --depend .\objects\startup.d)
+F (.\LCD_4-bit mode.h)(0x5EEF4C58)()
+F (.\PLL.h)(0x5EECEBA2)()
+F (.\Timer.h)(0x5EECEBA3)()
+F (.\main.c)(0x5EEE449F)(--c99 --gnu -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="528"-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (LCD_4-bit mode.h)(0x5EEF4C58)
+I (C:\Keil_v5\ARM\INC\Philips\LPC214X.H)(0x559CFE30)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB9D0A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEB9D0A)
+I (PLL.h)(0x5EECEBA2)
+I (Timer.h)(0x5EECEBA3)

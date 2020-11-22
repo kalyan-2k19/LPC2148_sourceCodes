@@ -1,0 +1,10 @@
+.\objects\i2c_with_rtc_lpc2148.o: I2C_with_RTC_lpc2148.c
+.\objects\i2c_with_rtc_lpc2148.o: LCD.h
+.\objects\i2c_with_rtc_lpc2148.o: C:\Keil_v5\ARM\INC\Philips\LPC214X.H
+.\objects\i2c_with_rtc_lpc2148.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\i2c_with_rtc_lpc2148.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\i2c_with_rtc_lpc2148.o: PLL.h
+.\objects\i2c_with_rtc_lpc2148.o: Timer.h
+.\objects\i2c_with_rtc_lpc2148.o: I2C_Lpc2148.h
+.\objects\i2c_with_rtc_lpc2148.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\i2c_with_rtc_lpc2148.o: UART.h

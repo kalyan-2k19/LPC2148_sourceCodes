@@ -1,0 +1,9 @@
+.\objects\rtc_main.o: RTC_main.c
+.\objects\rtc_main.o: LCD.h
+.\objects\rtc_main.o: C:\Keil_v5\ARM\INC\Philips\LPC214X.H
+.\objects\rtc_main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\rtc_main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\rtc_main.o: PLL.h
+.\objects\rtc_main.o: Timer.h
+.\objects\rtc_main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\rtc_main.o: UART.h

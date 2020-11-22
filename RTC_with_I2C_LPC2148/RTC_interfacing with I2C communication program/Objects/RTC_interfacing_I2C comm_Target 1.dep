@@ -1,0 +1,18 @@
+Dependencies for Project 'RTC_interfacing_I2C comm', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x559CFDE8)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips--pd "__UVISION_VERSION SETA 528"--list .\listings\startup.lst --xref -o .\objects\startup.o --depend .\objects\startup.d)
+F (.\LCD.h)(0x5F01D277)()
+F (.\Timer.h)(0x5F01D267)()
+F (.\PLL.h)(0x5F01D19D)()
+F (.\UART.h)(0x5F01D178)()
+F (.\I2C_Lpc2148.h)(0x5F06AD27)()
+F (.\I2C_with_RTC_lpc2148.c)(0x5F06AD58)(--c99 --gnu -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="528"-o .\objects\i2c_with_rtc_lpc2148.o --omf_browse .\objects\i2c_with_rtc_lpc2148.crf --depend .\objects\i2c_with_rtc_lpc2148.d)
+I (LCD.h)(0x5F01D277)
+I (C:\Keil_v5\ARM\INC\Philips\LPC214X.H)(0x559CFE30)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB9D0A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEB9D0A)
+I (PLL.h)(0x5F01D19D)
+I (Timer.h)(0x5F01D267)
+I (I2C_Lpc2148.h)(0x5F06AD27)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEB9D0A)
+I (UART.h)(0x5F01D178)
+F (.\I2C.h)(0x5F055D67)()

@@ -1,0 +1,7 @@
+--cpu ARM7TDMI
+".\objects\startup.o"
+".\objects\i2c_with_rtc_lpc2148.o"
+--strict --scatter ".\Objects\RTC_interfacing_I2C comm.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\RTC_interfacing_I2C comm.map" -o ".\Objects\RTC_interfacing_I2C comm.axf"

@@ -1,0 +1,16 @@
+Dependencies for Project 'GPS_interfacing', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x559CFDE8)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips--pd "__UVISION_VERSION SETA 528"--list .\listings\startup.lst --xref -o .\objects\startup.o --depend .\objects\startup.d)
+F (.\LCD_4_8.h)(0x5EEF4D04)()
+F (.\PLL.h)(0x5EEF1DD6)()
+F (.\Timer.h)(0x5EEF1DF7)()
+F (.\UART.h)(0x5EEF1E39)()
+F (.\main.c)(0x5EF1DD71)(--c99 --gnu -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="528"-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (LCD_4_8.h)(0x5EEF4D04)
+I (C:\Keil_v5\ARM\INC\Philips\LPC214X.H)(0x559CFE30)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB9D0A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEB9D0A)
+I (PLL.h)(0x5EEF1DD6)
+I (Timer.h)(0x5EEF1DF7)
+I (UART.h)(0x5EEF1E39)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEB9D0A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5CEB9D0A)
